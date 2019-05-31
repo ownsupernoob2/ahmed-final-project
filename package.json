@@ -5,7 +5,7 @@
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
-    "build": "parcel build index.html"
+    "build": "parcel build index.html contact.html about.html"
   },
   "dependencies": {
     "sanitize.css": "8.0.0"
